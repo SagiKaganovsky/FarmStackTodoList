@@ -1,0 +1,12 @@
+.trash-can {
+  filter: brightness(0) invert(1);
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+.edit-icon {
+  filter: brightness(0) invert(1);
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
